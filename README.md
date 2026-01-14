@@ -52,9 +52,7 @@ http://localhost:3000/api/patients/1/treatments
 
 ## Screenshots
 
-![Homepage ](Backend/src/images/Sales_Analytics_Dashboard.jpg)
-![graphql](Backend/src/images/graphql.jpg)
-![api-docs](Backend/src/images/api-docs.jpg)
+![Homepage ](src/Patient_Dashboard.jpg)
 
 
 ## 📁 Project Structure
